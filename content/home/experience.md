@@ -25,7 +25,7 @@ date_format = "January 2006"
   location = "北京"
   date_start = "2016-09-01"
   date_end = ""
-  description = """在这里开始大学生活"""
+  description = "在这里开始大学生活"
   Responsibilities include:
   
   * Analysing
