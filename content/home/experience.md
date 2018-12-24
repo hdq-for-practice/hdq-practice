@@ -3,7 +3,7 @@
 widget = "experience"  # Do not modify this line!
 active = true  # Activate this widget? true/false
 
-title = "Experience"
+title = "经历"
 subtitle = ""
 
 # Order that this section will appear in.
@@ -19,13 +19,13 @@ date_format = "January 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
+  title = "学生"
+  company = "北京邮电大学"
   company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  location = "北京"
+  date_start = "2016-09-01"
   date_end = ""
-  description = """
+  description = """在这里开始大学生活"""
   Responsibilities include:
   
   * Analysing
@@ -34,12 +34,12 @@ date_format = "January 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "高中"
+  company = "北京第一高中"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  location = "北京"
+  date_start = "2016-07-01"
+  date_end = "2013-09-01"
+  description = """在这里开始大学生活"""
 
 +++
