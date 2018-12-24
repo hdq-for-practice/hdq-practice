@@ -8,7 +8,7 @@ date = 2016-04-20T00:00:00
 weight = 5
 
 # List your academic interests.
-[interest]
+[interests]
   interests = [
     "电子商务",
     "英语",
@@ -17,24 +17,22 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "高中"
+  institution = "北京第一高中"
+  year = 2016
 
 [[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
+  course = "初中"
+  institution = "北京第一初中"
+  year = 2013
+
+[[education.courses]]
+  course = "小学"
+  institution = "北京第一小学"
   year = 2009
-
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
  
 +++
 
 # 简介
 
 北京邮电大学经济管理学院电子商务专业三年级学生
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
