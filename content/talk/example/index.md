@@ -1,5 +1,5 @@
 +++
-title = "Example Talk"
+title = "详情"
 date = 2017-01-01T00:00:00  # Schedule page publish date.
 draft = false
 
@@ -13,7 +13,7 @@ authors = []
 
 # Abstract and optional shortened version.
 abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
-abstract_short = "An example talk using Academic's Markdown slides feature."
+abstract_short = "大学期间有多次课上演讲经验"
 
 # Name of event and optional event URL.
 event = "Academic Theme Conference"
