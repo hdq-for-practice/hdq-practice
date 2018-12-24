@@ -34,7 +34,7 @@ weight = 7
   description = "90%"  
   
 [[feature]]
-  icon = "fa-dumbbell"
+  icon = "dumbbell"
   icon_pack = "fas"
   name = "运动"
   description = "80%"
