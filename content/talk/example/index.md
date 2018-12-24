@@ -5,8 +5,8 @@ draft = false
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-time_start = 2030-06-01T13:00:00
-time_end = 2030-06-01T15:00:00
+time_start = 2016
+time_end = 2018
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = []
@@ -16,7 +16,7 @@ abstract = "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuer
 abstract_short = "大学期间有多次课上演讲经验"
 
 # Name of event and optional event URL.
-event = "Academic Theme Conference"
+event = "北邮"
 event_url = "https://example.org"
 
 # Location of event.
