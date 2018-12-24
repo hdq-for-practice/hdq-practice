@@ -34,6 +34,6 @@ date_format = "January 2006"
   location = "北京"
   date_start = "2016-07-01"
   date_end = "2013-09-01"
-  description = """在这里开始大学生活"""
+  description = """在高中学习"""
 
 +++
